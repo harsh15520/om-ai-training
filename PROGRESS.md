@@ -2,7 +2,7 @@
 
 | # | Phase | Duration | Status | Checkpoint | Date Completed |
 |---|---|---|---|---|---|
-| 0 | Setup & Mindset | 2–3 days | Not started | Repo setup, branch, "hello world" commit, open a PR | |
+| 0 | Setup & Mindset | 2–3 days | Done | Repo setup, branch, "hello world" commit, open a PR | 2026-09-24 |
 | 1 | Python Foundations + OOP | 1 week | Not started | Class with inheritance (e.g. `BankAccount`/`Task`) + Pandas CSV summary stats | |
 | 2 | ML Fundamentals & Core Terminology | 1–1.5 weeks | Not started | Doc/Loom explaining overfitting, train/test split, embeddings | |
 | 3 | Deep Learning, In Depth | 2 weeks | Not started | `micrograd` + `makemore` exercises: tiny neural net + char-level model from scratch | |
